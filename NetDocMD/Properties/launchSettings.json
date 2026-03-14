@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NetDocMD": {
+      "commandName": "Project",
+      "commandLineArgs": "--xml \"C:\\Users\\me_la\\source\\repos\\LB.Utility\\src\\LB.Utility\\bin\\Debug\\net10.0\\LB.Utility.xml\" --readme \"C:\\Users\\me_la\\source\\repos\\LB.Utility\\src\\LB.Utility\\bin\\Debug\\net10.0\\README.md\" --short"
+    }
+  }
+}
