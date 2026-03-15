@@ -164,7 +164,7 @@ internal static partial class Program
                     String typeSummary = Clean(typeDoc?.Element("summary")?.Value);
 
                     // Write the Class, Enum, Interface, or Struct name
-                    sb.AppendLine($"## {typeDisplayName} <small> &bull; {typeKind}</small>");
+                    sb.AppendLine($"## {typeKind} {typeDisplayName}");
 
                     sb.AppendLine();
 
